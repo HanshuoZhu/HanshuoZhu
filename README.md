@@ -1,9 +1,8 @@
 # Hanshuo Zhu (朱晗硕)
 
-Taiyuan University of Technology
-Email1: 2024008836@link.tyut.edu.cn
-Email2: 2024008836.tyut@vip.163.com
-
+- Taiyuan University of Technology
+- Robotics Engineering
+- Email: 2024008836@link.tyut.edu.cn
 
 <!--
 **HanshuoZhu/HanshuoZhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
